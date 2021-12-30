@@ -1,0 +1,6 @@
+حضرتك هو الخطوات كلها اتعملت ماعدا
+3.4 sudo make modules_install -j12
+&
+3.5 sudo make install -j12
+uname ظهر معايا 
+5.11.0-43-generic
